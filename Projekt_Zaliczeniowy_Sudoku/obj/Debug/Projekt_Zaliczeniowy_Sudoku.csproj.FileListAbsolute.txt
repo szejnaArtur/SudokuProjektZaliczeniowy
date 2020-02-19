@@ -1,0 +1,47 @@
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe.config
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Form1.resources
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Properties.Resources.resources
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csproj.GenerateResource.Cache
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+c:\users\artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Wczytywanie_Zampisywanie_Usowanie.resources
+C:\Users\Artur\documents\visual studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Zapis.resources
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe.config
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Form1.resources
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Properties.Resources.resources
+C:\Users\Artur\Documents\Visual Studio 2012\Projects\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csproj.GenerateResource.Cache
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe.config
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csprojResolveAssemblyReference.cache
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Form1.resources
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Properties.Resources.resources
+M:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csproj.GenerateResource.Cache
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe.config
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csprojResolveAssemblyReference.cache
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Form1.resources
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Properties.Resources.resources
+H:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csproj.GenerateResource.Cache
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe.config
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.exe
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\bin\Debug\Projekt_Zaliczeniowy_Sudoku.pdb
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csprojResolveAssemblyReference.cache
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Form1.resources
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.Properties.Resources.resources
+D:\DOM\Projekt_Zaliczeniowy_Sudoku — kopia\Projekt_Zaliczeniowy_Sudoku\obj\Debug\Projekt_Zaliczeniowy_Sudoku.csproj.GenerateResource.Cache
